@@ -1,7 +1,3 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
-
 (function() {
   console.log("bookmarklet starting");
   let paragraphs = document.getElementsByTagName('p');
